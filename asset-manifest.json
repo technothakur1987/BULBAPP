@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bulbapp/static/css/main.a831f7cc.css",
+    "main.js": "/bulbapp/static/js/main.3eb7d132.js",
+    "static/js/787.e411a44e.chunk.js": "/bulbapp/static/js/787.e411a44e.chunk.js",
+    "index.html": "/bulbapp/index.html",
+    "main.a831f7cc.css.map": "/bulbapp/static/css/main.a831f7cc.css.map",
+    "main.3eb7d132.js.map": "/bulbapp/static/js/main.3eb7d132.js.map",
+    "787.e411a44e.chunk.js.map": "/bulbapp/static/js/787.e411a44e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a831f7cc.css",
+    "static/js/main.3eb7d132.js"
+  ]
+}
